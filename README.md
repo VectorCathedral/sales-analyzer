@@ -75,13 +75,13 @@ Day 7: R1020.00
 ### 🐧 Linux / macOS / WSL (g++)
 
 ```bash
-g++ -o sales weekly_sales.cpp
+g++ -o sales.cpp
 ./sales
 ```
 
 ## 🪟 Windows (MSVC / Visual Studio)
 Open or create a Console App project.
 
-Paste the contents of weekly_sales.cpp.
+Paste the contents of sales.cpp.
 
 Build and run from the IDE.
